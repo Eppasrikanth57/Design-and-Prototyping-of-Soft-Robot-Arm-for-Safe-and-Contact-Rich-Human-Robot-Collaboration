@@ -1,2 +1,2 @@
 # Design-and-Prototyping-of-Soft-Robot-Arm-for-Safe-and-Contact-Rich-Human-Robot-Collaboration
-Master Thesis
+This repository contains all the CAD designs, STL models, and Arduino code developed for my master's thesis at Hochschule Schmalkalden. The project involves design and prototyping of 2 versions of Soft Robot Arm and testing them with various tests such as Impact test, Tension test and comparision with existing cobot. Tests conducted with various percentage fillings of 2 types of Plastic beads.
