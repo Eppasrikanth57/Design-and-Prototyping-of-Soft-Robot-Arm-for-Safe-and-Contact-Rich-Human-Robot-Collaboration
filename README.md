@@ -6,16 +6,11 @@ The soft robotic arm is designed with modular flexible structures, granular-jamm
 
 📁 Repository Structure
 
-├── 2D Drawings/           # Technical manufacturing drawings of soft arm components
-
-├── 3D CAD files/          # 3D part and assembly models designed in Solidworks 2022 and 2024
-
-├── Coding/                # Arduino control code for actuation, sensing, and vacuum control
-
-├── STL/                   # Exported STL files for 3D printing of structural components
-
-├── LICENSE                # MIT License for academic and research use
-
+├── 2D Drawings/           # Technical manufacturing drawings of soft arm components  
+├── 3D CAD files/          # 3D part and assembly models designed in Solidworks 2022 and 2024  
+├── Coding/                # Arduino control code for actuation, sensing, and vacuum control  
+├── STL/                   # Exported STL files for 3D printing of structural components  
+├── LICENSE                # MIT License for academic and research use  
 └── README.md              # Project overview file
 
 🛠️ Project Description
@@ -118,7 +113,7 @@ Commercial use requires prior written permission.
 
 👨‍🎓 Author
 
-Srikanth Reddy Eppa
+Srikanth Reddy Eppa  
 M.Eng. Mechatronics and Robotics  
 Hochschule Schmalkalden, Germany
 
