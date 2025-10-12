@@ -119,7 +119,7 @@ Commercial use requires prior written permission.
 👨‍🎓 Author
 
 Srikanth Reddy Eppa
-M.Eng. Mechatronics and Robotics
+M.Eng. Mechatronics and Robotics  
 Hochschule Schmalkalden, Germany
 
 📧 Contact: For academic inquiries, feedback, or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/srikanth-reddy-eppa/) or contact through university channels.
