@@ -80,7 +80,7 @@ The prototype demonstrated smooth transition between compliant and stiff modes, 
 
 🧩 CAD and STL Files
 
-3D CAD files/: Inventor models for soft arm prototypes, vacuum connectors, mounts, and baffles.
+3D CAD files/: Solidworks models for soft arm prototypes, vacuum connectors, mounts, and baffles.
 
 STL/: Printable versions of structural and interface components for 3D printing.
 
@@ -119,9 +119,7 @@ Commercial use requires prior written permission.
 👨‍🎓 Author
 
 Srikanth Reddy Eppa
-
 M.Eng. Mechatronics and Robotics
-
 Hochschule Schmalkalden, Germany
 
 📧 Contact: For academic inquiries, feedback, or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/srikanth-reddy-eppa/) or contact through university channels.
