@@ -8,7 +8,7 @@ The soft robotic arm is designed with modular flexible structures, granular-jamm
 
 ├── 2D Drawings/           # Technical manufacturing drawings of soft arm components
 
-├── 3D CAD files/          # 3D part and assembly models designed in Autodesk Inventor
+├── 3D CAD files/          # 3D part and assembly models designed in Solidworks 2022 and 2024
 
 ├── Coding/                # Arduino control code for actuation, sensing, and vacuum control
 
