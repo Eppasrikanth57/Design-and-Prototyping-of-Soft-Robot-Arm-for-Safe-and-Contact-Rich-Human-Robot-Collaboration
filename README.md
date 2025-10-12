@@ -5,6 +5,7 @@ The project focuses on designing, building, and experimentally validating a vacu
 The soft robotic arm is designed with modular flexible structures, granular-jamming-based variable stiffness, and multi-sensor feedback (force, proximity, and strain sensing). It offers a novel approach for achieving inherent safety in close human–robot interaction, aligning with the Industry 5.0 vision of human-centered manufacturing.
 
 📁 Repository Structure
+
 ├── 2D Drawings/           # Technical manufacturing drawings of soft arm components
 ├── 3D CAD files/          # 3D part and assembly models designed in Autodesk Inventor
 ├── Coding/                # Arduino control code for actuation, sensing, and vacuum control
